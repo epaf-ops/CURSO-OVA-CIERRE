@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<instance xmlns="http://www.exelearning.org/content/v0.3" reference="7" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
   <unicode value="Cierre del Curso Diseño de Objetos Virtuales de Aprendizaje"></unicode>
@@ -91,7 +91,7 @@
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
-   <instance class="exe.engine.node.Node" reference="3">
+   <instance class="exe.engine.node.Node" reference="4">
     <dictionary>
      <string role="key" value="_title"></string>
      <unicode value="Conclusión"></unicode>
@@ -156,7 +156,7 @@
         <int value="1"></int>
         <string role="key" value="fields"></string>
         <list>
-         <instance class="exe.engine.field.TextAreaField" reference="2">
+         <instance class="exe.engine.field.TextAreaField" reference="3">
           <dictionary>
            <string role="key" value="_id"></string>
            <unicode value="108_2"></unicode>
@@ -171,10 +171,14 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 14pt;&quot;&gt;En el curso hemos trabajado con una serie de actividades que han permitido adquirir habilidades y competencias para desarrollar un &lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;OBJETO DE APRENDIZAJE&lt;/span&gt;, &lt;/strong&gt;dándose énfasis a crear materiales para que el estudiante los desarrolle de forma autónoma. Para lo cual, se proporcionaron algunas alternativas de aplicaciones y herramientas disponibles de forma gratuita, fáciles de implementar por cualquier docente con nociones básicas de tecnologías digitales. &lt;/span&gt;&lt;/h4&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 14pt;&quot;&gt;Una vez desarrollados e integrados los materiales pedagógicos, es importante continuar con la ETAPA DE IMPLEMENTACIÓN, establecerlos a disposición de los estudiantes. El aprendizaje en línea facilitado y dirigido por un instructor incluyen, además, la gestión, tareas de facilitación y evaluación del avance de los estudiantes. Por lo que se recomienda complementarlo con herramientas de comunicación en línea (chat, correo, blogs, etc.). Por otra parte, es relevante la ETAPA DE EVALUACIÓN de la calidad y efectividad del curso o actividades en línea, para en el futuro poder realizar mejoras a las actividades y a los contenidos pedagógicos que se han presentado. &lt;/span&gt;&lt;/h4&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 14pt;&quot;&gt;Esto es solo el principio, lo importante es&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt; seguir con la investigación, práctica e implementación de nuevas herramientas&lt;/strong&gt;&lt;/span&gt; que faciliten el proceso de enseñanza-aprendizaje, por lo que los invitamos a seguir explorando todas las oportunidades que nos brindan las tecnologías para la educación.&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
+&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;resources/ERIKA1.png&quot; alt=&quot;&quot; width=&quot;461&quot; height=&quot;461&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;En&lt;/span&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt; el curso hemos trabajado con una serie de actividades que han permitido adquirir habilidades y competencias para desarrollar un &lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;OBJETO DE APRENDIZAJE&lt;/span&gt;, &lt;/strong&gt;dándose énfasis a crear materiales para que el estudiante los desarrolle de forma autónoma. Para lo cual, se proporcionaron algunas alternativas de aplicaciones y herramientas disponibles de forma gratuita, fáciles de implementar por cualquier docente con nociones básicas de tecnologías digitales. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;Una vez desarrollados e integrados los materiales pedagógicos, es importante continuar con la ETAPA DE IMPLEMENTACIÓN, establecerlos a disposición de los estudiantes. El aprendizaje en línea facilitado y dirigido por un instructor incluyen, además, la gestión, tareas de facilitación y evaluación del avance de los estudiantes. Por lo que se recomienda complementarlo con herramientas de comunicación en línea (chat, correo, blogs, etc.). Por otra parte, es relevante la ETAPA DE EVALUACIÓN de la calidad y efectividad del curso o actividades en línea, para en el futuro poder realizar mejoras a las actividades y a los contenidos pedagógicos que se han presentado. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;Esto es solo el principio, lo importante es&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt; seguir con la investigación, práctica e implementación de nuevas herramientas&lt;/strong&gt;&lt;/span&gt; que faciliten el proceso de enseñanza-aprendizaje, por lo que los invitamos a seguir explorando todas las oportunidades que nos brindan las tecnologías para la educación.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -187,17 +191,70 @@
            <instance class="exe.engine.galleryidevice.GalleryImages">
             <dictionary>
              <string role="key" value=".listitems"></string>
-             <list></list>
+             <list>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="205"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="2_108_2.0"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="5">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="ERIKA1.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmppw4aqj.eXe\\previews\\allyourbase\\ERIKA1.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="675a365fdc19f69cec464d5c50a916a5"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+             </list>
              <string role="key" value="idevice"></string>
-             <reference key="2"></reference>
+             <reference key="3"></reference>
             </dictionary>
            </instance>
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="0"></int>
+           <int value="1"></int>
            <string role="key" value="parentNode"></string>
-           <reference key="3"></reference>
+           <reference key="4"></reference>
           </dictionary>
          </instance>
         </list>
@@ -214,18 +271,20 @@
         <string role="key" value="originalicon"></string>
         <string value=""></string>
         <string role="key" value="parentNode"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
         <string role="key" value="systemResources"></string>
         <list></list>
         <string role="key" value="undo"></string>
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
-        <list></list>
+        <list>
+         <reference key="5"></reference>
+        </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
        </dictionary>
       </instance>
-      <instance class="exe.engine.jsidevice.JsIdevice" reference="4">
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Cierre del curso"></unicode>
@@ -284,12 +343,12 @@
         <int value="1"></int>
         <string role="key" value="fields"></string>
         <list>
-         <instance class="exe.engine.field.TextAreaField" reference="5">
+         <instance class="exe.engine.field.TextAreaField" reference="7">
           <dictionary>
            <string role="key" value="_id"></string>
            <unicode value="108_2"></unicode>
            <string role="key" value="_idevice"></string>
-           <reference key="4"></reference>
+           <reference key="6"></reference>
            <string role="key" value="_instruc"></string>
            <string value=""></string>
            <string role="key" value="_name"></string>
@@ -315,7 +374,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
              <string role="key" value=".listitems"></string>
              <list></list>
              <string role="key" value="idevice"></string>
-             <reference key="5"></reference>
+             <reference key="7"></reference>
             </dictionary>
            </instance>
            <string role="key" value="intlinks_to_anchors"></string>
@@ -323,12 +382,12 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <reference key="3"></reference>
+           <reference key="4"></reference>
           </dictionary>
          </instance>
         </list>
         <string role="key" value="icon"></string>
-        <unicode value="interactive"></unicode>
+        <unicode value="reflection"></unicode>
         <string role="key" value="id"></string>
         <unicode value="0"></unicode>
         <string role="key" value="ideviceCategory"></string>
@@ -340,7 +399,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
         <string role="key" value="originalicon"></string>
         <unicode value="presentation"></unicode>
         <string role="key" value="parentNode"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
         <string role="key" value="systemResources"></string>
         <list></list>
         <string role="key" value="undo"></string>
@@ -351,7 +410,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
         <int value="0"></int>
        </dictionary>
       </instance>
-      <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value=""></unicode>
@@ -410,20 +469,22 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
         <int value="1"></int>
         <string role="key" value="fields"></string>
         <list>
-         <instance class="exe.engine.field.TextAreaField" reference="8">
+         <instance class="exe.engine.field.TextAreaField" reference="9">
           <dictionary>
            <string role="key" value="_id"></string>
            <unicode value="108_2"></unicode>
            <string role="key" value="_idevice"></string>
-           <reference key="6"></reference>
+           <reference key="8"></reference>
            <string role="key" value="_instruc"></string>
            <string value=""></string>
            <string role="key" value="_name"></string>
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n#auto_top&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;66&quot; height=&quot;68&quot; style=&quot;float: right;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n%20al%20Curso#auto_top&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;66&quot; height=&quot;68&quot; style=&quot;float: right;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -443,7 +504,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="203"></int>
+                  <int value="204"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -457,18 +518,18 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="8_108_2.0"></unicode>
+                <unicode value="8_108_2.1"></unicode>
                 <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="12">
+                <instance class="exe.engine.resource.Resource" reference="14">
                  <dictionary>
                   <string role="key" value="_idevice"></string>
-                  <reference key="6"></reference>
+                  <reference key="8"></reference>
                   <string role="key" value="_package"></string>
-                  <reference key="7"></reference>
+                  <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
                   <string value="siguiente.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkywqfm.eXe\\previews\\allyourbase\\siguiente.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp0dhqof\\siguiente.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -480,7 +541,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  </dictionary>
                 </instance>
                 <string role="key" value="_parent"></string>
-                <reference key="8"></reference>
+                <reference key="9"></reference>
                 <string role="key" value="_thumbnailResource"></string>
                 <none></none>
                 <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -491,22 +552,22 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
               </instance>
              </list>
              <string role="key" value="idevice"></string>
-             <reference key="8"></reference>
+             <reference key="9"></reference>
             </dictionary>
            </instance>
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary>
-            <unicode role="key" value="exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n#auto_top"></unicode>
-            <instance class="exe.engine.node.Node" reference="11">
+            <unicode role="key" value="exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n%20al%20Curso#auto_top"></unicode>
+            <instance class="exe.engine.node.Node" reference="12">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="Retroalimentación"></unicode>
+              <unicode value="Retroalimentación al Curso"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
                 <dictionary>
                  <string role="key" value="_title"></string>
-                 <unicode value="EVALUACIÓN DEL CURSO"></unicode>
+                 <unicode value=""></unicode>
                  <string role="key" value="_attributes"></string>
                  <list>
                   <tuple>
@@ -557,17 +618,17 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  <string role="key" value="edit"></string>
                  <bool value="0"></bool>
                  <string role="key" value="emphasis"></string>
-                 <int value="1"></int>
+                 <int value="0"></int>
                  <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="10">
+                  <instance class="exe.engine.field.TextAreaField" reference="11">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="110_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="9"></reference>
+                    <reference key="10"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -577,8 +638,17 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Le agradeceremos contestar el siguiente Formulario:&lt;/span&gt;&lt;/h4&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;640&quot; height=&quot;470&quot; src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfUCj7EN34Kgh4MOnyd_TpygHlwyGnod4CRMtePzGLPfd1vHQ/viewform?embedded=true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: 'comic sans ms', sans-serif;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;Le agradeceremos contestar el siguiente Formulario&lt;/span&gt;:&lt;/span&gt;&lt;/h4&gt;
+&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
+&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;resources/ERIKA_3.png&quot; alt=&quot;&quot; width=&quot;428&quot; height=&quot;428&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;exe-col exe-col-2&quot;&gt;
+&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;470&quot; src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfUCj7EN34Kgh4MOnyd_TpygHlwyGnod4CRMtePzGLPfd1vHQ/viewform?embedded=true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -591,17 +661,70 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                     <instance class="exe.engine.galleryidevice.GalleryImages">
                      <dictionary>
                       <string role="key" value=".listitems"></string>
-                      <list></list>
+                      <list>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="206"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
+                         <unicode value="6_110_2.0"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="13">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="10"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="2"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="ERIKA_3.png"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmppw4aqj.eXe\\previews\\allyourbase\\ERIKA_3.png"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="1ee7210c75879ed9cbbe2e86a76e8431"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="11"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                      </list>
                       <string role="key" value="idevice"></string>
-                      <reference key="10"></reference>
+                      <reference key="11"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="0"></int>
+                    <int value="1"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="3"></reference>
+                    <reference key="12"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -618,13 +741,15 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="11"></reference>
+                 <reference key="12"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
                  <bool value="1"></bool>
                  <string role="key" value="userResources"></string>
-                 <list></list>
+                 <list>
+                  <reference key="13"></reference>
+                 </list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
                 </dictionary>
@@ -633,7 +758,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
               <string role="key" value="_id"></string>
               <unicode value="1"></unicode>
               <string role="key" value="_package"></string>
-              <reference key="7"></reference>
+              <reference key="2"></reference>
               <string role="key" value="anchor_fields"></string>
               <list></list>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -641,12 +766,12 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
               <string role="key" value="exportType"></string>
               <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n"></string>
+              <string value="exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n%20al%20Curso"></string>
               <string role="key" value="parent"></string>
-              <reference key="3"></reference>
+              <reference key="4"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list>
-               <reference key="8"></reference>
+               <reference key="9"></reference>
               </list>
               <string role="key" value="children"></string>
               <list></list>
@@ -654,9 +779,9 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
             </instance>
            </dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="1"></int>
+           <int value="2"></int>
            <string role="key" value="parentNode"></string>
-           <reference key="3"></reference>
+           <reference key="4"></reference>
           </dictionary>
          </instance>
         </list>
@@ -673,14 +798,14 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
         <string role="key" value="originalicon"></string>
         <string value=""></string>
         <string role="key" value="parentNode"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
         <string role="key" value="systemResources"></string>
         <list></list>
         <string role="key" value="undo"></string>
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
         <list>
-         <reference key="12"></reference>
+         <reference key="14"></reference>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -690,7 +815,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
      <string role="key" value="_id"></string>
      <unicode value="0"></unicode>
      <string role="key" value="_package"></string>
-     <reference key="7"></reference>
+     <reference key="2"></reference>
      <string role="key" value="anchor_fields"></string>
      <list></list>
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -705,12 +830,12 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
      <list></list>
      <string role="key" value="children"></string>
      <list>
-      <reference key="11"></reference>
+      <reference key="12"></reference>
      </list>
     </dictionary>
    </instance>
    <unicode role="key" value="1"></unicode>
-   <reference key="11"></reference>
+   <reference key="12"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -720,12 +845,12 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
   <string value="Base"></string>
   <string role="key" value="anchor_nodes"></string>
   <list>
-   <reference key="11"></reference>
+   <reference key="12"></reference>
   </list>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="3"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -1967,13 +2092,21 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
   <string value="2.5"></string>
   <string role="key" value="resources"></string>
   <dictionary>
+   <string role="key" value="1ee7210c75879ed9cbbe2e86a76e8431"></string>
+   <list>
+    <reference key="13"></reference>
+   </list>
+   <string role="key" value="675a365fdc19f69cec464d5c50a916a5"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
    <string role="key" value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
    <list>
-    <reference key="12"></reference>
+    <reference key="14"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
-  <reference key="3"></reference>
+  <reference key="4"></reference>
   <string role="key" value="scolinks"></string>
   <bool value="0"></bool>
   <string role="key" value="scowsinglepage"></string>
@@ -1981,7 +2114,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="cedec"></unicode>
+  <unicode value="simplepoint"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
