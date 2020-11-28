@@ -198,7 +198,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1487"></int>
+                  <int value="1492"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -212,7 +212,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="2_108_2.3"></unicode>
+                <unicode value="2_108_2.4"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -223,7 +223,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="ERIKA1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjdpjlq\\ERIKA1.png"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\ERIKA1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="675a365fdc19f69cec464d5c50a916a5"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -252,7 +252,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="4"></int>
+           <int value="5"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -504,7 +504,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1489"></int>
+                  <int value="1494"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -518,9 +518,9 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="8_108_2.4"></unicode>
+                <unicode value="8_108_2.5"></unicode>
                 <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="19">
+                <instance class="exe.engine.resource.Resource" reference="20">
                  <dictionary>
                   <string role="key" value="_idevice"></string>
                   <reference key="8"></reference>
@@ -529,7 +529,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                   <string role="key" value="_storageName"></string>
                   <string value="siguiente.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjdpjlq\\siguiente.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\siguiente.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -639,9 +639,9 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/captura_de_nombre_1.PNG&quot; alt=&quot;&quot; width=&quot;596&quot; height=&quot;104&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.menti.com/qc45k2ph7e&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/sumit.PNG&quot; alt=&quot;&quot; width=&quot;569&quot; height=&quot;49&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.menti.com/9u1h8fqxt5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/sumit.PNG&quot; alt=&quot;&quot; width=&quot;569&quot; height=&quot;49&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.mentimeter.com/embed/24a4b4fed8b916490f366193954c4eef/60eacf7c693e&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.mentimeter.com/embed/c2638a8c61d51ea6dd9d5098f89d55ac/6738449aef89&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;exe-node:Conclusi%C3%B3n:Retroalimentaci%C3%B3n%20al%20Curso#auto_top&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;66&quot; height=&quot;68&quot; style=&quot;float: right;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -663,7 +663,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="1486"></int>
+                           <int value="1491"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -677,7 +677,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="9_108_2.2"></unicode>
+                         <unicode value="9_108_2.4"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="17">
                           <dictionary>
@@ -688,7 +688,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                            <string role="key" value="_storageName"></string>
                            <string value="captura_de_nombre_1.PNG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjdpjlq\\captura_de_nombre_1.PNG"></string>
+                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\captura_de_nombre_1.PNG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="0054ccd6985b33804bf91f7abdbb3b24"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -715,7 +715,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="1490"></int>
+                           <int value="1495"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -729,7 +729,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="9_108_2.3"></unicode>
+                         <unicode value="9_108_2.5"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="18">
                           <dictionary>
@@ -738,9 +738,61 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                            <string role="key" value="_package"></string>
                            <reference key="2"></reference>
                            <string role="key" value="_storageName"></string>
+                           <string value="siguiente.jpg"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\siguiente.jpg"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="11"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="1496"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
+                         <unicode value="9_108_2.6"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="19">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="10"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="2"></reference>
+                           <string role="key" value="_storageName"></string>
                            <string value="sumit.PNG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjdpjlq\\sumit.PNG"></string>
+                           <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\sumit.PNG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="c85b88e1d02e9cd60a6cfb8a26de318a"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -879,7 +931,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="1488"></int>
+                                    <int value="1493"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -893,7 +945,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_id"></string>
-                                  <unicode value="6_110_2.5"></unicode>
+                                  <unicode value="6_110_2.6"></unicode>
                                   <string role="key" value="_imageResource"></string>
                                   <instance class="exe.engine.resource.Resource" reference="15">
                                    <dictionary>
@@ -904,7 +956,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                                     <string role="key" value="_storageName"></string>
                                     <string value="ERIKA_3.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjdpjlq\\ERIKA_3.png"></string>
+                                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpwzekp_\\ERIKA_3.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="1ee7210c75879ed9cbbe2e86a76e8431"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -933,7 +985,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                              <string role="key" value="intlinks_to_anchors"></string>
                              <dictionary></dictionary>
                              <string role="key" value="nextImageId"></string>
-                             <int value="6"></int>
+                             <int value="7"></int>
                              <string role="key" value="parentNode"></string>
                              <reference key="14"></reference>
                             </dictionary>
@@ -990,7 +1042,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                      </instance>
                     </dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="4"></int>
+                    <int value="7"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="16"></reference>
                    </dictionary>
@@ -1018,6 +1070,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
                  <list>
                   <reference key="17"></reference>
                   <reference key="18"></reference>
+                  <reference key="19"></reference>
                  </list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
@@ -1048,7 +1101,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
             </instance>
            </dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="5"></int>
+           <int value="6"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -1074,7 +1127,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
         <list>
-         <reference key="19"></reference>
+         <reference key="20"></reference>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -1123,7 +1176,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="16"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2379,11 +2432,12 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
    </list>
    <string role="key" value="c85b88e1d02e9cd60a6cfb8a26de318a"></string>
    <list>
-    <reference key="18"></reference>
+    <reference key="19"></reference>
    </list>
    <string role="key" value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
    <list>
-    <reference key="19"></reference>
+    <reference key="20"></reference>
+    <reference key="18"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
